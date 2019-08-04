@@ -4,7 +4,7 @@ using TipCalc.Core.Services;
 
 namespace TipCalc.Core.ViewModels
 {
-    class TipViewModel: MvxViewModel
+    public class TipViewModel: MvxViewModel
     {
         private readonly ICalculationService calculationService;
 
