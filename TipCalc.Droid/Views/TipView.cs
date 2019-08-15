@@ -1,4 +1,4 @@
-﻿using Android.App;
+using Android.App;
 using Android.OS;
 using MvvmCross.Platforms.Android.Views;
 using TipCalc.Core.ViewModels;

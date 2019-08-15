@@ -1,4 +1,4 @@
-﻿using MvvmCross.ViewModels;
+using MvvmCross.ViewModels;
 using System.Threading.Tasks;
 using TipCalc.Core.Services;
 

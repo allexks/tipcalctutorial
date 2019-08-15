@@ -1,4 +1,4 @@
-﻿namespace TipCalc.Core.Services
+namespace TipCalc.Core.Services
 {
     class CalculationService : ICalculationService
     {
